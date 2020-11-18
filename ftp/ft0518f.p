@@ -1,6 +1,6 @@
 {include/i-prgvrs.i FT0518F 2.00.00.019 }
 {cdp/cdcfgdis.i}
-{ftp/ft0518f.i5} /* ttDanfe e ttDanfeItem */
+{ftp/ft0518f.i5} /* ttDanfe oe ttDanfeItem */
 {adapters/xml/ep2/axsep017.i} /*Temp-Tables da NF-e, ttNFe, ttIde, ttDet e etc.*/
 {include/tt-edit.i}
 {include/pi-edit.i}
